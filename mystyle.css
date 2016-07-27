@@ -1,0 +1,18 @@
+﻿body {
+    background-color: rgb(42,29,237);
+}
+
+
+
+calor {
+    outline-style: inset;
+    background-color: yellow;
+    border-style: groove;
+    color: rgb(255, 119, 237);
+    margin-left: 0px
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
